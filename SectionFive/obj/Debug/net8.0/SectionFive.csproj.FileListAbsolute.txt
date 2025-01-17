@@ -1,0 +1,14 @@
+c:\Users\Owner\Desktop\Comp Sci\C#\SectionFive\SectionFive\obj\Debug\net8.0\SectionFive.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Owner\Desktop\Comp Sci\C#\SectionFive\SectionFive\obj\Debug\net8.0\SectionFive.AssemblyInfoInputs.cache
+c:\Users\Owner\Desktop\Comp Sci\C#\SectionFive\SectionFive\obj\Debug\net8.0\SectionFive.AssemblyInfo.cs
+c:\Users\Owner\Desktop\Comp Sci\C#\SectionFive\SectionFive\obj\Debug\net8.0\SectionFive.csproj.CoreCompileInputs.cache
+c:\Users\Owner\Desktop\Comp Sci\C#\SectionFive\SectionFive\bin\Debug\net8.0\SectionFive.exe
+c:\Users\Owner\Desktop\Comp Sci\C#\SectionFive\SectionFive\bin\Debug\net8.0\SectionFive.deps.json
+c:\Users\Owner\Desktop\Comp Sci\C#\SectionFive\SectionFive\bin\Debug\net8.0\SectionFive.runtimeconfig.json
+c:\Users\Owner\Desktop\Comp Sci\C#\SectionFive\SectionFive\bin\Debug\net8.0\SectionFive.dll
+c:\Users\Owner\Desktop\Comp Sci\C#\SectionFive\SectionFive\bin\Debug\net8.0\SectionFive.pdb
+c:\Users\Owner\Desktop\Comp Sci\C#\SectionFive\SectionFive\obj\Debug\net8.0\SectionFive.dll
+c:\Users\Owner\Desktop\Comp Sci\C#\SectionFive\SectionFive\obj\Debug\net8.0\refint\SectionFive.dll
+c:\Users\Owner\Desktop\Comp Sci\C#\SectionFive\SectionFive\obj\Debug\net8.0\SectionFive.pdb
+c:\Users\Owner\Desktop\Comp Sci\C#\SectionFive\SectionFive\obj\Debug\net8.0\SectionFive.genruntimeconfig.cache
+c:\Users\Owner\Desktop\Comp Sci\C#\SectionFive\SectionFive\obj\Debug\net8.0\ref\SectionFive.dll
