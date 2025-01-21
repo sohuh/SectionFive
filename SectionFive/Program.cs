@@ -1,4 +1,4 @@
-﻿
+﻿using System.Collections.Generic;
     class Program
     {
         static void Main(string[] args)
@@ -39,6 +39,32 @@
             Console.WriteLine("Effect of Reverse()");
             foreach (var n in numbers)
                 Console.WriteLine(n);
-                
+
+            var numberslist = new List<int>() {1, 2,3,4};
+            numberslist.Add(1);
+            numberslist.AddRange(new int[3] { 5,6,7});
+
+            foreach (var number in numberslist)
+                Console.WriteLine(number);
+            
+            Console.WriteLine();
+            Console.WriteLine("Index of 1: "+ numberslist.IndexOf(1));
+            Console.WriteLine("Last Index of 1: " +numberslist.LastIndexOf(1));
+
+
+            Console.WriteLine("Count: " + numberslist.Count);
+
+            for( var i = 0; i < numberslist.Count; i++)
+            {
+                if(numberslist[i] == 1)
+                {
+                    numberslist.Remove(numberslist[i]);
+                }
+            } 
+            foreach (var number in numberslist)
+                Console.WriteLine(number);
+
+            numberslist.Clear();
+            Console.WriteLine("Count: " + numberslist.Count);
             }
     }

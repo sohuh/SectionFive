@@ -12,3 +12,4 @@ c:\Users\Owner\Desktop\Comp Sci\C#\SectionFive\SectionFive\obj\Debug\net8.0\refi
 c:\Users\Owner\Desktop\Comp Sci\C#\SectionFive\SectionFive\obj\Debug\net8.0\SectionFive.pdb
 c:\Users\Owner\Desktop\Comp Sci\C#\SectionFive\SectionFive\obj\Debug\net8.0\SectionFive.genruntimeconfig.cache
 c:\Users\Owner\Desktop\Comp Sci\C#\SectionFive\SectionFive\obj\Debug\net8.0\ref\SectionFive.dll
+c:\Users\Owner\Desktop\Comp Sci\C#\SectionFive\SectionFive\obj\Debug\net8.0\SectionFive.sourcelink.json
